@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jeferson Cuarán
 
-## 💻 Desarrollador Web Full Stack | PHP • MySQL • JavaScript
+## 💻 Desarrollador Web Full Stack | PHP • MySQL • JavaScript 
 
 Ingeniero de Sistemas especializado en desarrollo web con arquitectura MVC.
 Apasionado por crear soluciones escalables para el sector salud.
@@ -8,7 +8,7 @@ Apasionado por crear soluciones escalables para el sector salud.
 ### 🚀 Sobre Mí
 
 - 🔭 Trabajando en sistemas de gestión médica
-- 🌱 Aprendiendo Laravel, React y AWS
+- 🌱 Aprendiendo Laravel, React, C# y AWS
 - 📍 Pasto, Colombia
 - 🎓 Ingeniero de Sistemas + Especialista en Gerencia de Proyectos
 
